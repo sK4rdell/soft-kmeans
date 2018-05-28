@@ -1,5 +1,6 @@
 
 # Created by https://www.gitignore.io/api/macos,python
+.vscode/
 
 ### macOS ###
 *.DS_Store
